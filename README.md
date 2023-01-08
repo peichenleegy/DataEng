@@ -34,6 +34,7 @@ We’ll be using the book Designing Data-Intensive Applications: The Big Ideas B
 60-69% = D “falls short of requirements/expectations” 
 < 60%= E “repeat of course needed”
 
+([Broad weekly outline](https://docs.google.com/document/d/11mQYNhtyBGGhTEpQbaD__ZZfCNOdUdYdOrdGbfeMmXQ/edit?usp=sharing))
 ## Course Schedule:
 ###
 1. Wednesday, January 13 - ​([What is data engineering](https://docs.google.com/document/d/1_77Iigd0VruNyMY6KYDpMG5HIPmonW9PJf5lWpn4yys/edit?usp=sharing))
