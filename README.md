@@ -36,8 +36,8 @@ We’ll be using the book Designing Data-Intensive Applications: The Big Ideas B
 
 ## Course Schedule:
 ###
-1. Wednesday, January 13 - ​What is data engineering
-a. Lecture 1 - what is DE
+1. Wednesday, January 13 - ​([What is data engineering](https://docs.google.com/document/d/1_77Iigd0VruNyMY6KYDpMG5HIPmonW9PJf5lWpn4yys/edit?usp=sharing))
+a. Lecture 1 - ([what is DE]https://docs.google.com/presentation/d/1LBbLNw3-v_D2-TCzS2Wp3Yt-v-DDOeEapNS8dhP7yxs/edit?usp=sharing)
 b. Lecture 2 - Where does data come from and what is it
 c. MAKING ACCOUNTS
 2. Wednesday, January 20 - ​What is and how to work with it
